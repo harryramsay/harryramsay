@@ -1,6 +1,6 @@
 # Hi! I'm Harry 👋
 
-From the UK, but currently living in The Netherlands.
+Global citizen.
 
 ## Things I'm working on
 
@@ -33,8 +33,6 @@ Please do come and say hi!
 - music
 - philosophy
 - efficiency
-- sincerity
-- awe
 - hygge
 - code
 - cooking
