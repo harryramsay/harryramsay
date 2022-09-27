@@ -14,7 +14,7 @@ Global citizen.
 
 [![Website Badge](https://img.shields.io/badge/-harryramsay.co-fdf8f4?style=flat&logo=Google-Chrome&logoColor=white&link=https://harryramsay.co)](https://harryramsay.co)
 
-You can find my personal site [here](https://harryramsay.co). I blog occasionally on topics I'm interested in (such as my experience trying a [5-day fast](https://www.harryramsay.co/post/5-day-fast)).
+You can find my personal site [here](https://harryramsay.co). I blog occasionally on topics I'm interested in (such as my experience trying a [5-day fast](https://www.harryramsay.co/5-day-fast)).
 
 ## Want to say hi?
 
