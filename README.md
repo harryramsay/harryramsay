@@ -4,7 +4,7 @@ Global citizen.
 
 ## Things I'm working on
 
-- 📈 data analysis
+- 📈 data analysis ([here are my extensive notes on data analysis using Python and pandas](https://github.com/harryramsay/data-analysis-cheatsheets/blob/main/data-analysis-with-python.md))
 - 💻 code & building things
 - ✍️ writing
 - 🧠 knowledge management for knowledge workers
