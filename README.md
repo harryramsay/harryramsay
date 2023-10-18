@@ -12,7 +12,7 @@ Global citizen living in The Hague, Netherlands.
 
 ## Resume / CV
 
-I maintain a live version of my resume at [harrydata.com](harrydata.com).
+I maintain a live version of my resume at [harrydata.com](https://harrydata.com).
 
 ## Personal Site
 
