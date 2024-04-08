@@ -21,8 +21,8 @@ I blog occasionally on topics I'm interested in (such as my experience trying a 
 
 ## Want to say hi?
 
-I'm reasonably active on <a href="https://twitter.com/harry_ramsay">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a>.
-Otherwise, you can reach me at harry@harryramsay.co. 
+I'm ~~reasonably~~ infrequently active on <a href="https://twitter.com/harry_ramsay">Twitter.
+Otherwise, you can reach me at harry@harryramsay.co.
 
 Please do come and say hi!
 
