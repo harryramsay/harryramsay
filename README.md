@@ -21,7 +21,7 @@ I blog occasionally on topics I'm interested in (such as my experience trying a 
 
 ## Want to say hi?
 
-I'm ~~reasonably~~ infrequently active on <a href="https://twitter.com/harry_ramsay">Twitter.
+I'm ~~reasonably~~ infrequently active on <a href="https://twitter.com/harry_ramsay">Twitter.</a>
 Otherwise, you can reach me at harry@harryramsay.co.
 
 Please do come and say hi!
